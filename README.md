@@ -7,8 +7,8 @@ Centre Mananger       = Unknown
 Original intall date  = 01/11/2008  
 
 
-- [ ] Text Panel
-- [ ] Info Sheet
-- [ ] A4 info Holder
-- [ ] Documentation
+- [x] Text Panel
+- [x] Info Sheet
+- [x] A4 info Holder
+- [x] Documentation
 - [ ] Manual
